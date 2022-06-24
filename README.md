@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm Gevorg Danielyan
 
+[![](https://img.shields.io/badge/-Gevorg%20Danielyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gevorg-danielyan)](https://www.linkedin.com/in/gevorg-danielyan)
+
+📚 I spend my days working on dotnet docs. My primary focus is the C# language.
+👂 Send feedback here, or reach me out on LinkedIn.
 <!--
 **GevorDanielyan/GevorDanielyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
